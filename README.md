@@ -6,7 +6,7 @@
 
 В данном списке находятся все инструменты, с помощью которых происходит анализ данных полученных с объявлений Avito
 
-[find_optimal_flat](https://github.com/kubikrubikvkube/data_science#license)
+[find_optimal_flat](https://github.com/kubikrubikvkube/data_science/blob/master/README.md#mcda-flat-finder)
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## MCDA Flat Finder
-stub
+Это утилита есть реализация методов [мультикритериального анализа решений](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis) для выбора оптимальной квартиры для покупки.
 
 ## Authors
 
