@@ -6,7 +6,7 @@
 
 В данном списке находятся все инструменты, с помощью которых происходит анализ данных полученных с объявлений Avito
 
-[find_optimal_flat](https://github.com/kubikrubikvkube/data_science/blob/master/README.md#mcda-flat-finder)
+[MCDA Flat Finder](https://github.com/kubikrubikvkube/data_science/blob/master/README.md#mcda-flat-finder)
 
 ### Prerequisites
 
