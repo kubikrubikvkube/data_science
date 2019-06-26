@@ -1,6 +1,6 @@
-# Project Title
+# Data Science Avito
 
-One Paragraph of project description goes here
+Данный репозиторий представляет собой сборник утилит для анализа, визуализации и процессинга реальных данных с объявлений Авито.
 
 ## Getting Started
 
