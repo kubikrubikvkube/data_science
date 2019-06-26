@@ -2,11 +2,11 @@
 
 Данный репозиторий представляет собой сборник утилит для анализа, визуализации и процессинга реальных данных с объявлений Авито.
 
-## Getting Started
+## Реализованные инструменты
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+В данном списке находятся все инструменты, с помощью которых происходит анализ данных полученных с объявлений Avito
 
-[Относительная ссылка на документ](https://github.com/kubikrubikvkube/data_science#license)
+[find_optimal_flat](https://github.com/kubikrubikvkube/data_science#license)
 
 ### Prerequisites
 
@@ -71,6 +71,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## MCDA Flat Finder
+stub
 
 ## Authors
 
