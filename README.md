@@ -12,8 +12,17 @@
 ## MCDA Flat Finder
 Это утилита есть реализация методов [мультикритериального анализа решений](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis) для выбора оптимальной квартиры для покупки в городе Санкт-Петербург.
 User-Interface базируется на [Jupyter Notebook](https://jupyter.org/) , взаимодействие пользователя с программой реализовано при помощи [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/)
-Основной user-interface выглядит так:
+Общий вид программы
 ![UI](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_0.png)
+При нажатии на кнопку **Обновить базу данных с Авито**
+
+`описание работы и фотка прогрессбара`
+
+При нажатии на кнопку **Обновить СSV файл с геоданными**
+
+`описание работы и фотка прогрессбара`
+ 
+ 
 
 ### Использованные библиотеки
 * [PANDAS](https://pandas.pydata.org/)
