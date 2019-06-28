@@ -7,6 +7,7 @@
 В данном списке находятся все инструменты, с помощью которых происходит анализ данных полученных с объявлений Avito
 
 * [MCDA Flat Finder](https://github.com/kubikrubikvkube/data_science/blob/master/README.md#mcda-flat-finder)
+* [Spb new residential areas heatmap](http://ee.ee)
 
 ***
 ## MCDA Flat Finder
@@ -34,3 +35,6 @@ User-Interface базируется на [Jupyter Notebook](https://jupyter.org/
 ### Использованные библиотеки
 * [PANDAS](https://pandas.pydata.org/)
 * [Scikit-Criteria](http://scikit-criteria.org/en/latest/)
+
+***
+## Spb new residential areas heatmap
