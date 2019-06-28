@@ -38,3 +38,7 @@ User-Interface базируется на [Jupyter Notebook](https://jupyter.org/
 
 ***
 ## New Residential Areas Heatmap
+
+### Использованные библиотеки
+* [PANDAS](https://pandas.pydata.org/)
+* [ipyleaflet](https://ipyleaflet.readthedocs.io/en/latest/)
