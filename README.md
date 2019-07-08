@@ -15,12 +15,15 @@
 User-Interface базируется на [Jupyter Notebook](https://jupyter.org/) и [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/)
 Общий вид программы
 ![UI](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_0.png)
-При нажатии на кнопку **Обновить базу данных с Авито**
-Программа использует Avito private API для того чтобы получить все объявления о продаже недвижимости за последние 30 дней.
+При нажатии на кнопку **Обновить базу данных с Авито** скрипт использует Avito private API для того чтобы получить все объявления о продаже недвижимости за последние 30 дней.
 ![Update_DB](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_6.png)
-Это занимает от 10 до 20 минут в среднем. Все объявления сохраняются в SQLite базу данных, в одну таблицу с примитивной структурой
+
+Это занимает около 10-20 минут. Все объявления сохраняются в SQLite базу данных, в одну таблицу с примитивной структурой
+
+
 ![SQLite_Structure](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_7.png)
 В таблице находится около 50 000 записей, данные выглядят таким образом
+
 ![SQLite_Table_Data](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_8.png)
 Где id есть ключ объявления такой же, как в базе данных Avito
 
