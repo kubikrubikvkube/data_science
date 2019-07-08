@@ -44,8 +44,10 @@ User-Interface базируется на [Jupyter Notebook](https://jupyter.org/
 Где 
 * item.natural_id - ID объявления
 * item.price - стоимость квартиры (руб)
-* item.closest_metro_distance.m - расстояние в метрах до ближайшей станции метро [geodesic distance](https://geopy.readthedocs.io/en/stable/#module-geopy.distance)
-
+* item.closest_metro_distance.m - расстояние в метрах до ближайшей станции метро рассчитанное с помощью [GeoPy](https://geopy.readthedocs.io/en/stable/#module-geopy.distance)
+* item.distance_to_city_center.m - расстояние в метрах до центра города (за 'центр' взяты координаты метро Невский Проспект)
+* item.square_meters - площадь квартиры (м²)
+После обновления этих данных скрипт полностью готов к расчёту лучших вариантов квартир из доступных на Авито.
 
  Вкладка "Цены"
  ![Prices](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_4.png)
