@@ -26,7 +26,7 @@ User-Interface базируется на [Jupyter Notebook](https://jupyter.org/
 
 ![SQLite_Table_Data](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_8.png)
 
-Где id - ключ объявления, такой же как в базе данных Avito.
+Где id - ключ объявления, идентичный ключу в базе данных Avito.
 
 При нажатии на кнопку **Обновить СSV файл с геоданными** скрипт выполняет расчёт геопараметров для каждого объявления о продаже недвижимости и сохраняет их в CSV файл для дальнейшего анализа с помощью PANDAS.
 ![Analyze_Geodata](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_9.png)
