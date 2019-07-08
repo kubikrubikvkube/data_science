@@ -20,12 +20,13 @@ User-Interface базируется на [Jupyter Notebook](https://jupyter.org/
 
 Это занимает около 10-20 минут. Все объявления сохраняются в SQLite базу данных, в одну таблицу с примитивной структурой
 
-
 ![SQLite_Structure](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_7.png)
+
 В таблице находится около 50 000 записей, данные выглядят таким образом
 
 ![SQLite_Table_Data](https://github.com/kubikrubikvkube/data_science/blob/master/docs/images/mcda_flat_finder_8.png)
-Где id есть ключ объявления такой же, как в базе данных Avito
+
+Где id - ключ объявления, такой же как в базе данных Avito.
 
 При нажатии на кнопку **Обновить СSV файл с геоданными**
 
